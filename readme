@@ -1,3 +1,5 @@
+ENGLISH:
+
 Create a new folder in the server's directory called "cs"
 Put the unzipped file in the cs directory
 
@@ -8,3 +10,5 @@ then access:aa.bb.cc.dd/html/abcd/cs/index.html
 
 If you don't understand it yet?
 Please open the folder "MP4" and watch the video to understand the deployment process
+
+
