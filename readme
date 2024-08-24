@@ -11,6 +11,8 @@ then access:aa.bb.cc.dd/html/abcd/cs/index.html
 If you don't understand it yet?
 Please open the folder "en-MP4" and watch the video to understand the deployment process
 
+Editor's note: "favicon.ico" can be changed, just keep the name the same.
+
 
 中文:
 
@@ -25,6 +27,9 @@ Please open the folder "en-MP4" and watch the video to understand the deployment
 如果还不懂？
 请打开文件夹“cn-MP4”观看视频以了解部署过程
 
+编者注：“favicon.ico”是可以更改的，保持名字一样就可以。
+
+
 中文（繁体）：
 
 在伺服器的目錄新建一個資料夾叫“cs”
@@ -37,3 +42,5 @@ Please open the folder "en-MP4" and watch the video to understand the deployment
 
 如果還不懂？
 請打開資料夾「cn-hk-MP4」觀看視頻以瞭解部署過程
+
+編者注：「favicon.ico」是可以更改的，保持名字一樣就可以。
