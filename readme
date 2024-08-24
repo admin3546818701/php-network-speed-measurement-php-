@@ -9,6 +9,31 @@ Address:aa.bb.cc.dd
 then access:aa.bb.cc.dd/html/abcd/cs/index.html
 
 If you don't understand it yet?
-Please open the folder "MP4" and watch the video to understand the deployment process
+Please open the folder "en-MP4" and watch the video to understand the deployment process
 
 
+中文:
+
+在服务器的目录新建一个文件夹叫"cs"
+把压缩包解压后放在cs目录下就可以了
+
+例如:
+目录：/html/abcd/
+地址：aa.bb.cc.dd
+则访问:aa.bb.cc.dd/html/abcd/cs/index.html
+
+如果还不懂？
+请打开文件夹“cn-MP4”观看视频以了解部署过程
+
+中文（繁体）：
+
+在伺服器的目錄新建一個資料夾叫“cs”
+把壓縮包解壓後放在cs目錄下就可以了
+
+例如：
+目錄：/html/abcd/
+位址：aa.bb.cc.dd
+則訪問：aa.bb.cc.dd/html/abcd/cs/index.html
+
+如果還不懂？
+請打開資料夾「cn-hk-MP4」觀看視頻以瞭解部署過程
